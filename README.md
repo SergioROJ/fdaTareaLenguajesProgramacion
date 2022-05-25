@@ -29,7 +29,7 @@ Mac y Linux. Está en Alpha para Windows.
 Atlassian, Walmart, MailOnline, etc.
 
 ### Historia
-[https://download.clojure.org/papers/clojure-hopl-iv-final.pdf] (Historia)
+[Historia](https://download.clojure.org/papers/clojure-hopl-iv-final.pdf)
 
 ### Estado
 Activo
